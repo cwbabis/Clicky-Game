@@ -1,26 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import FriendCard from "./components/FriendCard";
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+import champions from "./champions.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  // Setting this.state.champions to the champions json array
+  state = {
+    champions
+  };
+
+  // Map over this.state.champions and render a FriendCard component for each friend object
+  render() {
+    return (
+      <Wrapper>
+        <Title>League of Legends Memory Game</Title>
+        {this.state.champions.map(friend => (
+          <FriendCard
+            id={friend.id}
+            key={friend.id}
+            image={friend.image}
+          />
+        ))}
+      </Wrapper>
+    );
+  }
 }
 
 export default App;
