@@ -1,1022 +1,878 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
+    "name": "Aatrox",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Aatrox.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
+    "name": "Ahri",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ahri.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 3,
-    "name": "Squidward",
+    "name": "Akali",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Akali.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 4,
-    "name": "Dexter",
+    "name": "Alistar",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Alistar.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 5,
-    "name": "Courage",
+    "name": "Amumu",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Amumu.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 6,
-    "name": "Doug Funnie",
+    "name": "Anivia",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Anivia.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
+    "name": "Annie",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Annie.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
+    "name": "Ashe",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ashe.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
+    "name": "Aurelion Sol",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/AurelionSol.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 10,
-    "name": "Rocko",
+    "name": "Azir",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Azir.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 11,
-    "name": "Captain Planet",
+    "name": "Bard",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Bard.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 12,
-    "name": "Ickis",
+    "name": "Blitzcrank",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Blitzcrank.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 13,
-    "name": "SpongeBob",
+    "name": "Brand",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Brand.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 14,
-    "name": "Mr. Krabs",
+    "name": "Braum",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Braum.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 15,
-    "name": "Squidward",
+    "name": "Caitlyn",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Caitlyn.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 16,
-    "name": "Dexter",
+    "name": "Camille",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Camille.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 17,
-    "name": "Courage",
+    "name": "Cassiopeia",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Cassiopeia.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 18,
-    "name": "Doug Funnie",
+    "name": "Cho'Gath",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Chogath.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 19,
-    "name": "Bugs Bunny",
+    "name": "Corki",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Corki.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 20,
-    "name": "Johnny Bravo",
+    "name": "Darius",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Darius.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 21,
-    "name": "Tommy Pickles",
+    "name": "Diana",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Diana.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 22,
-    "name": "Rocko",
+    "name": "Dr. Mundo",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/DrMundo.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 23,
-    "name": "Captain Planet",
+    "name": "Draven",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Draven.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 24,
-    "name": "Ickis",
+    "name": "Ekko",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ekko.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 25,
-    "name": "SpongeBob",
+    "name": "Elise",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Elise.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 26,
-    "name": "Mr. Krabs",
+    "name": "Evelynn",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Evelynn.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 27,
-    "name": "Squidward",
+    "name": "Ezreal",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ezreal.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 28,
-    "name": "Dexter",
+    "name": "Fiddlesticks",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Fiddlesticks.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 29,
-    "name": "Courage",
+    "name": "Fiora",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Fiora.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 30,
-    "name": "Doug Funnie",
+    "name": "Fizz",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Fizz.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 31,
-    "name": "Bugs Bunny",
+    "name": "Galio",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Galio.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 32,
-    "name": "Johnny Bravo",
+    "name": "Gangplank",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Gangplank.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 33,
-    "name": "Tommy Pickles",
+    "name": "Garen",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Garen.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 34,
-    "name": "Rocko",
+    "name": "Gnar",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Gnar.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 35,
-    "name": "Captain Planet",
+    "name": "Gragas",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Gragas.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 36,
-    "name": "Ickis",
+    "name": "Graves",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Graves.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 37,
-    "name": "SpongeBob",
+    "name": "Hecarim",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Hecarim.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 38,
-    "name": "Mr. Krabs",
+    "name": "Heimerdinger",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Heimerdinger.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 39,
-    "name": "Squidward",
+    "name": "Illaoi",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Illaoi.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 40,
-    "name": "Dexter",
+    "name": "Irelia",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Irelia.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 41,
-    "name": "Courage",
+    "name": "Ivern",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ivern.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 42,
-    "name": "Doug Funnie",
+    "name": "Janna",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Janna.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 43,
-    "name": "Bugs Bunny",
+    "name": "Jarvan IV",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/JarvanIV.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 44,
-    "name": "Johnny Bravo",
+    "name": "Jax",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Jax.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 45,
-    "name": "Tommy Pickles",
+    "name": "Jayce",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Jayce.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 46,
-    "name": "Rocko",
+    "name": "Jhin",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Jhin.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 47,
-    "name": "Captain Planet",
+    "name": "Jinx",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Jinx.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 48,
-    "name": "Ickis",
+    "name": "Kaisa",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kaisa.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 49,
-    "name": "SpongeBob",
+    "name": "Kalista",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kalista.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 50,
-    "name": "Mr. Krabs",
+    "name": "Karma",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Karma.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 51,
-    "name": "Squidward",
+    "name": "Karthus",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Karthus.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 52,
-    "name": "Dexter",
+    "name": "Kassadin",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kassadin.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 53,
-    "name": "Courage",
+    "name": "Katarina",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Katarina.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 54,
-    "name": "Doug Funnie",
+    "name": "Kayle",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kayle.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 55,
-    "name": "Bugs Bunny",
+    "name": "Kayn",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kayn.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 56,
-    "name": "Johnny Bravo",
+    "name": "Kennen",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kennen.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 57,
-    "name": "Tommy Pickles",
+    "name": "Kha'Zix",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Khazix.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 58,
-    "name": "Rocko",
+    "name": "Kindred",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kindred.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 59,
-    "name": "Captain Planet",
+    "name": "Kled",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kled.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 60,
-    "name": "Ickis",
+    "name": "Kog'Maw",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/KogMaw.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 61,
-    "name": "SpongeBob",
+    "name": "LeBlanc",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Leblanc.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 62,
-    "name": "Mr. Krabs",
+    "name": "Lee Sin",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/LeeSin.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 63,
-    "name": "Squidward",
+    "name": "Leona",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Leona.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 64,
-    "name": "Dexter",
+    "name": "Lissandra",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Lissandra.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 65,
-    "name": "Courage",
+    "name": "Lucian",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Lucian.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 66,
-    "name": "Doug Funnie",
+    "name": "Lulu",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Lulu.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 67,
-    "name": "Bugs Bunny",
+    "name": "Lux",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Lux.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 68,
-    "name": "Johnny Bravo",
+    "name": "Malphite",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Malphite.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 69,
-    "name": "Tommy Pickles",
+    "name": "Malzahar",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Malzahar.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 70,
-    "name": "Rocko",
+    "name": "Maokai",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Maokai.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 71,
-    "name": "Captain Planet",
+    "name": "Master Yi",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/MasterYi.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 72,
-    "name": "Ickis",
+    "name": "Miss Fortune",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/MissFortune.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 73,
-    "name": "SpongeBob",
+    "name": "Mordekaiser",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Mordekaiser.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 74,
-    "name": "Mr. Krabs",
+    "name": "Morgana",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Morgana.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 75,
-    "name": "Squidward",
+    "name": "Nami",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Nami.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 76,
-    "name": "Dexter",
+    "name": "Nasus",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Nasus.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 77,
-    "name": "Courage",
+    "name": "Nautilus",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Nautilus.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 78,
-    "name": "Doug Funnie",
+    "name": "Neeko",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Neeko.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 79,
-    "name": "Bugs Bunny",
+    "name": "Nidalee",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Nidalee.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 80,
-    "name": "Johnny Bravo",
+    "name": "Nocturne",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Nocturne.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 81,
-    "name": "Tommy Pickles",
+    "name": "Nunu",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Nunu.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 82,
-    "name": "Rocko",
+    "name": "Olaf",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Olaf.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 83,
-    "name": "Captain Planet",
+    "name": "Orianna",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Orianna.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 84,
-    "name": "Ickis",
+    "name": "Ornn",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ornn.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 85,
-    "name": "SpongeBob",
+    "name": "Pantheon",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Pantheon.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 86,
-    "name": "Mr. Krabs",
+    "name": "Poppy",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Poppy.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 87,
-    "name": "Squidward",
+    "name": "Pyke",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Pyke.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 88,
-    "name": "Dexter",
+    "name": "Quinn",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Quinn.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 89,
-    "name": "Courage",
+    "name": "Rakan",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Rakan.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 90,
-    "name": "Doug Funnie",
+    "name": "Rammus",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Rammus.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 91,
-    "name": "Bugs Bunny",
+    "name": "Rek'Sai",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/RekSai.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 92,
-    "name": "Johnny Bravo",
+    "name": "Renekton",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Renekton.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 93,
-    "name": "Tommy Pickles",
+    "name": "Rengar",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Rengar.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 94,
-    "name": "Rocko",
+    "name": "Riven",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Riven.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 95,
-    "name": "Captain Planet",
+    "name": "Rumble",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Rumble.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 96,
-    "name": "Ickis",
+    "name": "Ryze",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ryze.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 97,
-    "name": "SpongeBob",
+    "name": "Sejuani",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Sejuani.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 98,
-    "name": "Mr. Krabs",
+    "name": "Shaco",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Shaco.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 99,
-    "name": "Squidward",
+    "name": "Shen",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Shen.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 100,
-    "name": "Dexter",
+    "name": "Shyvana",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Shyvana.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 101,
-    "name": "Courage",
+    "name": "Singed",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Singed.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 102,
-    "name": "Doug Funnie",
+    "name": "Sion",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Sion.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 103,
-    "name": "Bugs Bunny",
+    "name": "Sivir",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Sivir.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 104,
-    "name": "Johnny Bravo",
+    "name": "Skarner",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Skarner.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 105,
-    "name": "Tommy Pickles",
+    "name": "Sona",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Sona.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 106,
-    "name": "Rocko",
+    "name": "Soraka",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Soraka.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 107,
-    "name": "Captain Planet",
+    "name": "Swain",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Swain.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 108,
-    "name": "Ickis",
+    "name": "Sylas",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Sylas.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 109,
-    "name": "SpongeBob",
+    "name": "Syndra",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Syndra.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 110,
-    "name": "Mr. Krabs",
+    "name": "Tahm Kench",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/TahmKench.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 111,
-    "name": "Squidward",
+    "name": "Taliyah",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Taliyah.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 112,
-    "name": "Dexter",
+    "name": "Talon",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Talon.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 113,
-    "name": "Courage",
+    "name": "Taric",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Taric.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 114,
-    "name": "Doug Funnie",
+    "name": "Teemo",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Teemo.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 115,
-    "name": "Bugs Bunny",
+    "name": "Thresh",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Thresh.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 116,
-    "name": "Johnny Bravo",
+    "name": "Tristana",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Tristana.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 117,
-    "name": "Tommy Pickles",
+    "name": "Trundle",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Trundle.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 118,
-    "name": "Rocko",
+    "name": "Tryndamere",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Tryndamere.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 119,
-    "name": "Captain Planet",
+    "name": "Twisted Fate",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/TwistedFate.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 120,
-    "name": "Ickis",
+    "name": "Twitch",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Twitch.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 121,
-    "name": "SpongeBob",
+    "name": "Udyr",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Udyr.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 122,
-    "name": "Mr. Krabs",
+    "name": "Urgot",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Urgot.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 123,
-    "name": "Squidward",
+    "name": "Varus",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Varus.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 124,
-    "name": "Dexter",
+    "name": "Vayne",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Vayne.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 125,
-    "name": "Courage",
+    "name": "Veigar",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Veigar.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 126,
-    "name": "Doug Funnie",
+    "name": "Vel'Koz",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Velkoz.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 127,
-    "name": "Bugs Bunny",
+    "name": "Vi",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Vi.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 128,
-    "name": "Johnny Bravo",
+    "name": "Viktor",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Viktor.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 129,
-    "name": "Tommy Pickles",
+    "name": "Vladamir",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Vladimir.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 130,
-    "name": "Rocko",
+    "name": "Volibear",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Volibear.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 131,
-    "name": "Captain Planet",
+    "name": "Warwick",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Warwick.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 132,
-    "name": "Ickis",
+    "name": "Wukong",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/MonkeyKing.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 133,
-    "name": "Tommy Pickles",
+    "name": "Xayah",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Xayah.png",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 134,
-    "name": "Rocko",
+    "name": "Xerath",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Xerath.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 135,
-    "name": "Captain Planet",
+    "name": "Xin Zhao",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/XinZhao.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 136,
-    "name": "Ickis",
+    "name": "Yasuo",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Yasuo.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   },
   {
     "id": 137,
-    "name": "SpongeBob",
+    "name": "Yorick",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Yorick.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 138,
-    "name": "Mr. Krabs",
+    "name": "Yuumi",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Yuumi.png",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 139,
-    "name": "Squidward",
+    "name": "Zac",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Zac.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 140,
-    "name": "Dexter",
+    "name": "Zed",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Zed.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
     
   },
   {
     "id": 141,
-    "name": "Courage",
+    "name": "Ziggs",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Ziggs.png",
-    "occupation": "A Cowardly Dog",
-    "location": "Bluffington"
+    "clicked": false
    },
   {
     "id": 142,
-    "name": "Doug Funnie",
+    "name": "Zilean",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Zilean.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 143,
-    "name": "Bugs Bunny",
+    "name": "Zoe",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Zoe.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 144,
-    "name": "Johnny Bravo",
+    "name": "Zyra",
     "image": "https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Zyra.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   }
 ]
