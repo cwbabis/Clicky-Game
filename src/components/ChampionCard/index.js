@@ -2,8 +2,8 @@ import React from "react";
 import "./style.css";
 
 const imgStyling = {
-  height: "80px",
-  width: "80px"
+  height: "70px",
+  width: "70px"
 };
 
 function ChampionCard(props) {

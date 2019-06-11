@@ -1,7 +1,7 @@
 .card {
-  height: 80px;
+  height: 70px;
   margin: 1rem;
-  width: 80px;
+  width: 70px;
   transition: box-shadow .4s;
   position: relative;
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.85);
